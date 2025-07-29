@@ -1,0 +1,1 @@
+In this first part of the integrated project, we investigate access to safe and affordable drinking water. You will need to create features, summaries, and visualizations as per the instructions in order to complete the compulsory project MCQ assessment. Download the datasets we’ll be using throughout this project from the Download Additional Files button.
