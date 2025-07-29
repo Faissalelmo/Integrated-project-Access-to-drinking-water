@@ -65,6 +65,11 @@ We added derived features including:
 - Data Cleaning (COUNTA, ROUNDUP, FILTER, IF, SWITCH functions)
 - Visualization: Line charts, 100% stacked bar charts, candlestick (boxplot)
 
+### 📎 Access the Project Google Sheet
+
+You can view the data analysis and visualizations on Google Sheets here:  
+👉 [**Open Project Sheet**](https://docs.google.com/spreadsheets/d/10AQHmFWkgiwqw4etjSIFEp-FFRjyOm5YA2U1jhR6nnk/edit?usp=sharing)
+
 ---
 
 ## 📚 Next Step: Part 2
